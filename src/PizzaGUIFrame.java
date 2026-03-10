@@ -8,8 +8,6 @@ import java.awt.*;
  * (combo box), topping selection (checkboxes), a receipt display area,
  * and buttons to order, clear, or quit the program.
  *
- * <p>This class handles all GUI construction and event logic for generating
- * a formatted pizza receipt based on the user's selections.</p>
  */
 public class PizzaGUIFrame extends JFrame {
 
